@@ -1,5 +1,9 @@
 # React + Vite - Inventory Management Project
 
+## Try the app
+
+- https://inventory-management-localstorage.vercel.app/
+
 **Note:** Ensure that you have an active internet connection.
 
 ## Instructions to Run the App Locally
