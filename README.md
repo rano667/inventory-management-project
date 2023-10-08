@@ -27,7 +27,7 @@ open command prompt then run the following commands.
 - npm run both
 
 
-this will run the app on http://localhost:5173/
+in your browser visit the url http://localhost:5173/
 
 ### Step 1: Clone the Project
 
